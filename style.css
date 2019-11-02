@@ -1,0 +1,13 @@
+.position{
+	position: relative;
+}
+
+.social{
+	position: absolute;
+	top: 100px;
+	right: 40px;
+}
+
+.social i{
+	font-size: 32px;
+}
